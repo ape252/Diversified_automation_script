@@ -1,0 +1,34 @@
+url: 
+   home: "http://qa-dr.qwinixtech.com/"
+
+default_user: 
+    username: "admin@qwinixtech.com"
+    pwd: "qwinix123"
+
+ad_admin:
+    firstname: "apeksha"
+    secondname: "hemanth"
+    depname: "doc"
+    email: "ap@yopmail.com"
+    pass: "qwinix123"
+    confpass: "qwinix123"
+
+informatics:
+  informaticname: "dnental"
+  informatictitle: "rootcanal"
+  # description: "Contrary to jokes about the matter, modern endodontic treatment is very similar to having a routine filling and usually can be completed in one or two appointments, depending on the condition of your tooth and your personal circumstances. You can expect a comfortable experience during and after your appointment.
+  #           Saving the natural tooth with root canal treatment has many advantages:
+  #             Efficient chewing
+  #             Normal biting force and sensation
+  #               Natural appearance
+  #               Protects other teeth from excessive wear or strain "
+
+subspeciality:
+  subspecialityname: "peds"                
+  sname: "ped"
+  hospitalname: "cloud9"
+  weekdayphone: "5676778689"
+
+helpline:
+    number: "9098763456"
+

@@ -1,0 +1,27 @@
+
+# P_list - Ruby Cucumber Automation
+
+# Revision History:
+# -----------------
+# Creator Name  : Qwinix QA
+# Modifier By   : <NAME>,<MODIFY DATE>,<REASON>
+
+# description: This file contains execution order of features. The highest number features executes first in the order
+
+
+
+#
+#Login
+
+features/login.feature : 800
+features/add_admin.feature : 700
+features/edit.feature: 650
+features/delete.feature: 600
+features/hospital.feature: 500
+features/infor.feature: 400
+features/sub.feature: 300
+features/holiday.feature: 200
+features/helpline.feature: 100
+features/logout.feature: 50
+
+
